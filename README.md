@@ -1,2 +1,5 @@
-# denismezhenin-JSFE2022Q3
-Private repository for @denismezhenin
+# Presentation
+
+Presentation about Google analytics made with reveal.js
+
+
